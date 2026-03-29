@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+
+    <!-- Apex -->
+    <types>
+        <members>*</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexTrigger</name>
+    </types>
+
+    <!-- Lightning -->
+    <types>
+        <members>*</members>
+        <name>LightningComponentBundle</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+
+    <!-- Objects & Fields -->
+    <types>
+        <members>*</members>
+        <name>CustomObject</name>
+    </types>
+
+    <!-- Layouts -->
+    <types>
+        <members>*</members>
+        <name>Layout</name>
+    </types>
+
+    <!-- Flows -->
+    <types>
+        <members>*</members>
+        <name>Flow</name>
+    </types>
+
+    <!-- Permissions -->
+    <types>
+        <members>*</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>PermissionSet</name>
+    </types>
+
+    <!-- Tabs -->
+    <types>
+        <members>*</members>
+        <name>CustomTab</name>
+    </types>
+
+    <!-- Apps -->
+    <types>
+        <members>*</members>
+        <name>CustomApplication</name>
+    </types>
+
+    <!-- Validation Rules -->
+    <types>
+        <members>*</members>
+        <name>ValidationRule</name>
+    </types>
+
+    <!-- Email Templates -->
+    <types>
+        <members>*</members>
+        <name>EmailTemplate</name>
+    </types>
+
+    <!-- Reports & Dashboards -->
+    <types>
+        <members>*</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Dashboard</name>
+    </types>
+
+    <!-- Static Resources -->
+    <types>
+        <members>*</members>
+        <name>StaticResource</name>
+    </types>
+
+    <!-- Named Credentials -->
+    <types>
+        <members>*</members>
+        <name>NamedCredential</name>
+    </types>
+
+    <!-- Remote Sites -->
+    <types>
+        <members>*</members>
+        <name>RemoteSiteSetting</name>
+    </types>
+
+    <!-- Custom Metadata -->
+    <types>
+        <members>*</members>
+        <name>CustomMetadata</name>
+    </types>
+
+    <!-- Custom Settings -->
+    <types>
+        <members>*</members>
+        <name>CustomSetting</name>
+    </types>
+
+    <!-- Labels -->
+    <types>
+        <members>*</members>
+        <name>CustomLabel</name>
+    </types>
+
+    <!-- Queues -->
+    <types>
+        <members>*</members>
+        <name>Queue</name>
+    </types>
+
+    <!-- Roles -->
+    <types>
+        <members>*</members>
+        <name>Role</name>
+    </types>
+
+    <!-- Groups -->
+    <types>
+        <members>*</members>
+        <name>Group</name>
+    </types>
+
+    <version>60.0</version>
+</Package>
