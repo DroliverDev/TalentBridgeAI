@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Category__c</fullName>
+    <externalId>false</externalId>
+    <label>Category</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Frontend</fullName>
+                <default>false</default>
+                <label>Frontend</label>
+            </value>
+            <value>
+                <fullName>Backend</fullName>
+                <default>false</default>
+                <label>Backend</label>
+            </value>
+            <value>
+                <fullName>Full Stack</fullName>
+                <default>false</default>
+                <label>Full Stack</label>
+            </value>
+            <value>
+                <fullName>Mobile Development</fullName>
+                <default>false</default>
+                <label>Mobile Development</label>
+            </value>
+            <value>
+                <fullName>DevOps</fullName>
+                <default>false</default>
+                <label>DevOps</label>
+            </value>
+            <value>
+                <fullName>Cloud &amp; Infrastructure</fullName>
+                <default>false</default>
+                <label>Cloud &amp; Infrastructure</label>
+            </value>
+            <value>
+                <fullName>Data &amp; Analytics</fullName>
+                <default>false</default>
+                <label>Data &amp; Analytics</label>
+            </value>
+            <value>
+                <fullName>AI &amp; Machine Learning</fullName>
+                <default>false</default>
+                <label>AI &amp; Machine Learning</label>
+            </value>
+            <value>
+                <fullName>CRM &amp; Salesforce</fullName>
+                <default>false</default>
+                <label>CRM &amp; Salesforce</label>
+            </value>
+            <value>
+                <fullName>Integration &amp; APIs</fullName>
+                <default>false</default>
+                <label>Integration &amp; APIs</label>
+            </value>
+            <value>
+                <fullName>Testing &amp; QA</fullName>
+                <default>false</default>
+                <label>Testing &amp; QA</label>
+            </value>
+            <value>
+                <fullName>Security</fullName>
+                <default>false</default>
+                <label>Security</label>
+            </value>
+            <value>
+                <fullName>UI/UX Design</fullName>
+                <default>false</default>
+                <label>UI/UX Design</label>
+            </value>
+            <value>
+                <fullName>Project Management</fullName>
+                <default>false</default>
+                <label>Project Management</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

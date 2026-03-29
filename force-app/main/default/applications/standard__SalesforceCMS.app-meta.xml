@@ -11,8 +11,36 @@
     <tabs>standard-CmsChannel</tabs>
     <tabs>standard-CmsWorkspaces</tabs>
     <tabs>standard-CmsExperiences</tabs>
+    <tabs>Freelancer__c</tabs>
+    <tabs>Project__c</tabs>
+    <tabs>Application__c</tabs>
+    <tabs>Client__c</tabs>
+    <tabs>Project_Contract__c</tabs>
+    <tabs>Skill__c</tabs>
+    <tabs>System_Health_Log__c</tabs>
     <uiType>Lightning</uiType>
     <workspaceConfig>
+        <mappings>
+            <tab>Application__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Client__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Freelancer__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Project_Contract__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Project__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Skill__c</tab>
+        </mappings>
+        <mappings>
+            <tab>System_Health_Log__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-CmsAuthorHome</tab>
         </mappings>

@@ -11,4 +11,11 @@
     <tabs>standard-OtherUserProfile</tabs>
     <tabs>standard-CollaborationGroup</tabs>
     <tabs>standard-File</tabs>
+    <tabs>Freelancer__c</tabs>
+    <tabs>Project__c</tabs>
+    <tabs>Application__c</tabs>
+    <tabs>Client__c</tabs>
+    <tabs>Project_Contract__c</tabs>
+    <tabs>Skill__c</tabs>
+    <tabs>System_Health_Log__c</tabs>
 </CustomApplication>
