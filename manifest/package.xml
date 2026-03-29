@@ -107,12 +107,6 @@
         <name>CustomMetadata</name>
     </types>
 
-    <!-- Custom Settings -->
-    <types>
-        <members>*</members>
-        <name>CustomSetting</name>
-    </types>
-
     <!-- Labels -->
     <types>
         <members>*</members>
